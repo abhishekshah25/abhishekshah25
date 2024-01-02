@@ -1,4 +1,4 @@
-👋 Hi there! I'm Abhishek, a seasoned Senior Data Engineer at LTIMindtree. With a passion for building robust data solutions, I bring a wealth of experience and expertise in crafting data pipelines and architecting scalable systems.
+👋 Hi there! I'm Abhishek, a seasoned Senior Data Engineer at LTIMindtree. With a passion for building robust data solutions, I bring a wealth of experience and expertise in crafting data pipelines & architecting scalable systems.
 
 💡 My skill set includes cutting-edge technologies and frameworks such as AWS (Amazon Web Services), Python, React and FastAPI. I thrive in the realms of Data Engineering and Data Science, where I have successfully designed and implemented solutions that drive actionable insights from raw data.
 
