@@ -1,7 +1,7 @@
 👋 Hi there! I'm Abhishek, a seasoned Senior Data Engineer at LTIMindtree. With a passion for building robust data solutions, I bring a wealth of experience and expertise in crafting data pipelines & architecting scalable systems.
 
 
-💡 My skill set includes cutting-edge technologies and frameworks such as AWS (Amazon Web Services), Python, Docker, React & FastAPI.
+💡 My skill set includes cutting-edge technologies and frameworks such as AWS (Amazon Web Services), TeradataSQL, Python, Docker, React & FastAPI.
 
 
 🌐 This GitHub is a snapshot of my journey — code snippets, projects, and contributions that reflect my commitment towards the tech space. Feel free to explore and do not hesitate to reach out if you have any queries or just want to chat about all things data!
