@@ -4,7 +4,7 @@
 💡 My skill set includes cutting-edge technologies and frameworks such as AWS (Amazon Web Services), TeradataSQL, Python, Docker, React & Flask.
 
 
-🌐 This GitHub is a snapshot of my journey — code snippets, projects, and contributions that reflect my commitment towards the tech space. Feel free to explore and do not hesitate to reach out if you have any queries or just want to chat about all things data!
+🌐 This GitHub is a snapshot of my journey — code snippets, projects, & contributions that reflect my commitment towards the tech space. Feel free to explore and do not hesitate to reach out if you have any queries or just want to chat about all things data!
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
