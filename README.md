@@ -20,7 +20,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekshah25&show_icons=true&locale=en&layout=compact" alt="abhishekshah25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekshah25&show_icons=true&locale=en" alt="abhishekshah25" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshah25&" alt="abhishekshah25" /></p>
 
