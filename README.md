@@ -18,7 +18,7 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekshah25&show_icons=true&locale=en&layout=compact" alt="abhishekshah25" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshah25&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="abhishekshah25's GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshah25&" alt="abhishekshah25" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekshah25&theme=default&hide_border=true" alt="abhishekshah25's GitHub Stats" /></p>
 
