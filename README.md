@@ -1,4 +1,4 @@
-<h3 align="left">Intro:</h3>
+<h3 align="left">Introduction:</h3>
 
 👋 Hi there! I'm Abhishek, a seasoned Data Engineer at LTIMindtree. With a passion for building robust data solutions, I bring a wealth of experience & expertise in crafting data pipelines & architecting scalable systems.
 
