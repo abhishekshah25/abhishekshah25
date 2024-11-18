@@ -1,6 +1,6 @@
 <h3 align="left">Introduction:</h3>
 
-👋 Hi there! I'm Abhishek, a seasoned Data Engineer at LTIMindtree. With a passion for building robust data solutions, I bring a wealth of experience and expertise in crafting data pipelines and architecting scalable systems.
+👋 Hi there! This is Abhishek, a seasoned Data Engineer at LTIMindtree. With a passion for building robust data solutions, I bring a wealth of experience and expertise in crafting data pipelines and architecting scalable systems.
 
 🌐 This GitHub is a snapshot of my journey — code snippets, projects and contributions that reflect my commitment towards the tech space. Feel free to explore and do not hesitate to reach out if you have any queries or just want to chat about all things data!
 
